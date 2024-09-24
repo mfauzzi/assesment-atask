@@ -1,24 +1,18 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Internal Wallet Transactional System API
 
-Things you may want to cover:
+This is an internal API for managing wallet transactions between different entities such as Users, Teams, and Stocks. The API allows for creating wallets, performing credit and debit transactions, and managing wallet balances using Ruby on Rails and MongoDB.
 
-* Ruby version
+## Technologies Used
 
-* System dependencies
+- Ruby on Rails
+- MongoDB
+- Postman for API testing
 
-* Configuration
+## Installation
 
-* Database creation
+1. **Clone the repository**:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+   ```bash
+   git clone https://github.com/mfauzzi/assesment-atask.git ```
