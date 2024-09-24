@@ -16,7 +16,7 @@ gem "stimulus-rails"
 gem "jbuilder"
 # Use Redis adapter to run Action Cable in production
 # gem "redis", ">= 4.0.1"
-gem 'mongoid', '~> 8.0' # For MongoDB integration
+gem 'mongoid', '~> 9.0' # For MongoDB integration
 gem 'bcrypt', '~> 3.1.7' # For password encryption (sign-in)
 gem 'jwt' # For session management (JSON Web Tokens)
 
